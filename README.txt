@@ -1,1 +1,1 @@
-Link: UeplWebPortfolio.github.io
+Link: https://uepl.github.io/
